@@ -12,14 +12,18 @@ A data analysis and visualization dashboard for tracking and understanding anxie
 # 🎯 Objective
 
 The main objective of this project is to:
+
 -- Explore anxiety **data using** visual analytics
+
 -- Identify noticeable patterns and variations
+
 -- Present insights in a clear and easy-to-understand dashboard format
 
 # 📂 DATASET DESCRIPTION
 
-A cleaned dataset from Kaggle, analyzing anxiety levels and related lifestyle, demographic and wellness indicators. It includes variables such as sleep hours, physical activity, alcohol consumption, medication status, age group and wellness score.
-Basic data cleaning and transformation were performed using Power Query to ensure consistency and accuracy.
+    A cleaned dataset from Kaggle, analyzing anxiety levels and related lifestyle, demographic and wellness indicators. It includes variables such as sleep hours, physical activity, alcohol consumption, medication status, age group and wellness score.
+    
+    Basic data cleaning and transformation were performed using Power Query to ensure consistency and accuracy.
 
 # 💼 Tools Used
 
@@ -42,4 +46,5 @@ Basic data cleaning and transformation were performed using Power Query to ensur
 # Contact
 
 **Saranya K**
+
 saranyakrishnan6379@gmail.com
