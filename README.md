@@ -22,8 +22,8 @@ The main objective of this project is to:
 
 # 📂 DATASET DESCRIPTION
 
-    A cleaned dataset from Kaggle, analyzing anxiety levels and related lifestyle, demographic and wellness indicators. It includes variables such as sleep hours, physical activity, alcohol consumption, medication status, age group and wellness score.
-    Basic data cleaning and transformation were performed using Power Query to ensure consistency and accuracy.
+A cleaned dataset from Kaggle, analyzing anxiety levels and related lifestyle, demographic and wellness indicators. It includes variables such as sleep hours, physical activity, alcohol consumption, medication status, age group and wellness score.
+Basic data cleaning and transformation were performed using Power Query to ensure consistency and accuracy.
 
 # 💼 Tools Used
 
