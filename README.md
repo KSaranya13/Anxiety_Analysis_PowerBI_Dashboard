@@ -7,13 +7,14 @@ A data analysis and visualization dashboard for tracking and understanding anxie
 # 📘Project Overview
 
     This project presents an interactive Power BI dashboard designed to analyze anxiety-related data.
+    
     The dashboard focuses on understanding how anxiety levels vary across different categories present in the dataset and highlights key patterns through visual analysis.
 
 # 🎯 Objective
 
 The main objective of this project is to:
 
--- Explore anxiety **data using** visual analytics
+-- Explore anxiety data using visual analytics
 
 -- Identify noticeable patterns and variations
 
